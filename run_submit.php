@@ -6,7 +6,7 @@
 			$arr_old = file('databases.txt');
 			
 				if (!empty($arr_old)) {
-					echo 'Файл "databases.txt" не пустой';
+					echo $arr_old[0];
 				} else {
 					echo '"Файл "databases.txt" пустой"';
 				}

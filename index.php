@@ -6,131 +6,131 @@
 			Рецепт
 		</title>
         <style>
-	    h2 {
-		position: absolute;
-		left: 370px;
-		}
-            .name {
-    		position: absolute;
-		top: 60px;
-		width: 210px;
-		padding-left: 10px;
-		padding-bottom: 1px;
-		border-top: 1px solid #000;
-                border-bottom: 1px solid #000;
-		border-left: 1px solid #000
-		}
-            .cheet_num {
-    		position: absolute;
-		top: 60px;
-		width: 170px;
-		left: 229px;
-		padding-left: 10px;
-		padding-bottom: 1px;
-		border-top: 1px solid #000;
-                border-bottom: 1px solid #000;
-		border-left: 1px solid #000;
-		border-right: 1px solid #000;
-		}
-	    .date {
-		position: absolute;
-		width: 200px;
-		top: 60px;
-		left: 410px;
-		padding-left: 10px;
-		padding-bottom: 2px;
-		text-align: left;
-		border-top: 1px solid #000;
-                border-bottom: 1px solid #000
-		}
-	    .complexity {
-		position: absolute;
-		top: 60px;
-		left: 440px;
-		width: 341px;
-		padding-right: 10px;
-		text-align: right;
-		border-right: 1px solid #000;
-		border-top: 1px solid #000;
-                border-bottom: 1px solid #000
-		}
-	    .products {
-		position: absolute;
-		top: 132px;
-		width: 240px;
-		padding-left: 10px;
-		border-left: 1px solid #000;
-		border-bottom: 1px solid #000
-		}
-	    .products_values {
-		position: absolute;
-		top: 134px;
-		left: 190px;
-		width: 209.5px;
-		padding-left: 10px;
-		padding-bottom: 1px;
-		border-bottom: 1px solid #000;
-		border-right: 1px solid #000
-		}
-	    .photo {
-		position: absolute;
-		top: 133px;
-		left: 410px;
-		height: 111px;
-		width: 381px;
-		text-align: center;
-		padding-top: 50px;
-		border-right: 1px solid #000;
-		border-bottom: 1px solid #000
-		}
-	    .sugar_salt {
-		position: absolute;
-		top: 295px;
-		width: 401px;
-		text-align: center;
-		border-left: 1px solid #000;
-		border-right: 1px solid #000;
-		border-bottom: 1px solid #000;
-		}
-	    .user {
-		position: absolute;
-		top: 368px;
-		width: 401px;
-		text-align: center;
-		padding-top: 20px;
-		border-left: 1px solid #000;
-		border-right: 1px solid #000;
-		border-bottom: 1px solid #000;
-		}
-	    .button {
-		position: absolute;
-		top: 550px;
-		width: 401px;
-		text-align: center;
-		border-left: 1px solid #000;
-		border-right: 1px solid #000;
-		border-bottom: 1px solid #000;
-		}
-	    .cooking_method {
-		position: absolute;
-		top: 295px;
-		left: 410px;
-		height: 288px;
-		width: 366px;
-		padding-top: 20px;
-		padding-left: 15px;
-		border-right: 1px solid #000;
-		border-bottom: 1px solid #000;
-		}
-	    #textfield {
-		height: 230px;
-		width: 350px;
-		resize: none;
-		}
-	    .out {
-		position: absolute;
-		top: 620px;
-		}
+			h2 {
+				position: absolute;
+				left: 370px;
+			}
+			.name {
+				position: absolute;
+				top: 60px;
+				width: 210px;
+				padding-left: 10px;
+				padding-bottom: 1px;
+				border-top: 1px solid #000;
+				border-bottom: 1px solid #000;
+				border-left: 1px solid #000
+			}
+			.cheet_num {
+				position: absolute;
+				top: 60px;
+				width: 170px;
+				left: 229px;
+				padding-left: 10px;
+				padding-bottom: 1px;
+				border-top: 1px solid #000;
+				border-bottom: 1px solid #000;
+				border-left: 1px solid #000;
+				border-right: 1px solid #000;
+			}
+			.date {
+				position: absolute;
+				width: 200px;
+				top: 60px;
+				left: 410px;
+				padding-left: 10px;
+				padding-bottom: 2px;
+				text-align: left;
+				border-top: 1px solid #000;
+				border-bottom: 1px solid #000
+			}
+			.complexity {
+				position: absolute;
+				top: 60px;
+				left: 440px;
+				width: 341px;
+				padding-right: 10px;
+				text-align: right;
+				border-right: 1px solid #000;
+				border-top: 1px solid #000;
+				border-bottom: 1px solid #000
+			}
+			.products {
+				position: absolute;
+				top: 132px;
+				width: 240px;
+				padding-left: 10px;
+				border-left: 1px solid #000;
+				border-bottom: 1px solid #000
+			}
+			.products_values {
+				position: absolute;
+				top: 134px;
+				left: 190px;
+				width: 209.5px;
+				padding-left: 10px;
+				padding-bottom: 1px;
+				border-bottom: 1px solid #000;
+				border-right: 1px solid #000
+			}
+			.photo {
+				position: absolute;
+				top: 133px;
+				left: 410px;
+				height: 111px;
+				width: 381px;
+				text-align: center;
+				padding-top: 50px;
+				border-right: 1px solid #000;
+				border-bottom: 1px solid #000
+			}
+			.sugar_salt {
+				position: absolute;
+				top: 295px;
+				width: 401px;
+				text-align: center;
+				border-left: 1px solid #000;
+				border-right: 1px solid #000;
+				border-bottom: 1px solid #000;
+			}
+			.user {
+				position: absolute;
+				top: 368px;
+				width: 401px;
+				text-align: center;
+				padding-top: 20px;
+				border-left: 1px solid #000;
+				border-right: 1px solid #000;
+				border-bottom: 1px solid #000;
+			}
+			.button {
+				position: absolute;
+				top: 550px;
+				width: 401px;
+				text-align: center;
+				border-left: 1px solid #000;
+				border-right: 1px solid #000;
+				border-bottom: 1px solid #000;
+			}
+			.cooking_method {
+				position: absolute;
+				top: 295px;
+				left: 410px;
+				height: 288px;
+				width: 366px;
+				padding-top: 20px;
+				padding-left: 15px;
+				border-right: 1px solid #000;
+				border-bottom: 1px solid #000;
+			}
+			#textfield {
+				height: 230px;
+				width: 350px;
+				resize: none;
+			}
+			.out {
+				position: absolute;
+				top: 620px;
+			}
         </style>
     </head>
     <body>
@@ -202,7 +202,8 @@
 						<option value="0.5"
 						<?php if ((!empty($_POST['prm8']) and $_POST['prm8'] === '0.5') or (empty($_POST['prm8']))) {echo 'selected';} ?>>0.5
 						</option>
-					</select>&nbsp;литра
+					</select>
+					&nbsp;литра
 				</p>
 				<p>
 					<input type=radio name="prm9" value="100гр"
